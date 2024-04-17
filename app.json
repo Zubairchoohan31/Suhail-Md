@@ -1,6 +1,6 @@
 {
   "name": "shehzada-md@1.2.8",
-  "description": "I am Shehzada-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "description": "I am Shehzada-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/+923431962180",
   "logo": "https://telegra.ph/file/f9a765eaad2d9786e0fba.jpg",
   "keywords": ["whatsappbot", "ShehzadaMd", "Shehzada Md bot", "Shehzada-Md", "ShehzadaMdWhatsaooBot", "ShehzadaWaBot","ShehzadaMD","Shehzada Md Whatsapp Bot","multi device"],
   "success_url": "/shehzada/",
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "sʜᴇʜᴢᴀᴅᴀ-ᴍᴅ"
     }, 
     "IMAGE": {
       "description": "Image for bot",
